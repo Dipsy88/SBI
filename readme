@@ -1,0 +1,9 @@
+Instructions are provided below:
+
+1. Add “jmetal4.5_SBI” in the build path of “SBI-code”.
+
+2. The main class is “NSGAII_Implantation.java”.
+
+3. Problem is “Implantation.java”.
+
+4. Case study specific settings need to be modified in the project, i.e., classes in the package “elements” and “implementation”.
